@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "teste clone\n";
     std::cout << "alteracao para teste\n";
+    std::cout << "Hello outro teste\n";
 }
 
 // Executar programa: Ctrl + F5 ou Menu Depurar > Iniciar Sem Depuração
