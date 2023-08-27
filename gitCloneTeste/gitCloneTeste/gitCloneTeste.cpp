@@ -9,7 +9,10 @@ int main()
     std::cout << "teste clone\n";
     std::cout << "alteracao para teste\n";
     std::cout << "Hello outro teste\n";
+    std::cout << "Hello World na brench mms_brench!\n";
 }
+
+//testando a brench nova !!!!!!
 
 // Executar programa: Ctrl + F5 ou Menu Depurar > Iniciar Sem Depuração
 // Depurar programa: F5 ou menu Depurar > Iniciar Depuração
